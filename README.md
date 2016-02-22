@@ -1,4 +1,4 @@
-# auth0-analystick-aspnet-core
+# Invite Only Sample - Auth0 - ASP.NET Core
 This is ASP.NET Core (previously ASP.NET 5) implementation of [invite only sample] from Auth0. 
 
 ## Getting Started
