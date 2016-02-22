@@ -22,7 +22,10 @@ In order to run this sample, you will require an Auth0 and SendGrid accounts. Ha
   }
 ```
 
+It is recommended that you use [Secret Manager] to store the aforementioned application settings.
+
 ## License
 This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more info.
 
 [invite only sample]: <https://github.com/auth0/auth0-invite-only-sample>
+[Secret Manager]: <https://docs.asp.net/en/latest/security/app-secrets.html#secret-manager>
