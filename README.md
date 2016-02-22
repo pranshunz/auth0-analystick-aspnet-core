@@ -23,6 +23,6 @@ In order to run this sample, you will require an Auth0 and SendGrid accounts. Ha
 ```
 
 ## License
-This project is licensed under the MIT license. See the [LICENSE](LICENSE.txt) file for more info.
+This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more info.
 
 [invite only sample]: <https://github.com/auth0/auth0-invite-only-sample>
