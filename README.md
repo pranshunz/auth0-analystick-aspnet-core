@@ -1,5 +1,5 @@
 # Invite Only Sample - Auth0 - ASP.NET Core
-This is ASP.NET Core (previously ASP.NET 5) implementation of [invite only sample] from Auth0. 
+This is ASP.NET Core (previously ASP.NET 5) implementation of [invite only sample] from Auth0. Also have a look at [article] (https://auth0.com/docs/invite-only) about the application.
 
 ## Getting Started
 In order to run this sample, you will require an Auth0 and SendGrid accounts. Have a look at appsettings.json and set all the required configuration values:
