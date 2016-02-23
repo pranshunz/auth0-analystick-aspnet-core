@@ -24,6 +24,8 @@ In order to run this sample, you will require an Auth0 and SendGrid accounts. Ha
 
 It is recommended that you use [Secret Manager] to store the aforementioned application settings.
 
+![Screenshot](/screenshots/ss1.png?raw=true)
+
 ## License
 This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more info.
 
